@@ -1,0 +1,10 @@
+{
+    "name": "hr1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "hr1.xml",
+    "author": "hramirez",
+    "minimum_firmware_version": 42
+}
